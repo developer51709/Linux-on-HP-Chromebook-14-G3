@@ -63,3 +63,24 @@ chronos
 ```
 
 No password is needed by default.
+
+---
+
+## 4. Download the ChrUbuntu‑Tegra script
+The **ChrUbuntu‑Tegra** project provides scripts specifically for Tegra‑based Chromebooks to install Ubuntu ARM using the ChromeOS kernel.
+
+1. In the shell, become root:
+
+```bash
+sudo su
+```
+
+2. Download the script:
+
+```bash
+cd /home/chronos/user
+wget https://raw.githubusercontent.com/marcino239/chrubuntu-tegra/master/chrubuntu-tegra.sh
+chmod +x chrubuntu-tegra.sh
+```
+
+> This script is designed for Tegra Chromebooks and automates partitioning and installing Ubuntu ARM alongside or over ChromeOS.
