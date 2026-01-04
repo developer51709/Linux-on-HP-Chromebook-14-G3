@@ -219,7 +219,3 @@ But for coding, scripting, and learning Linux, this setup is solid.
 - ChrUbuntu‑Tegra is the **only reliable, repeatable method** for a full Linux environment on this device.
 
 This guide gives you a setup that behaves like a full Linux install while staying within what the hardware supports.
-
----
-
-# End of Guide
