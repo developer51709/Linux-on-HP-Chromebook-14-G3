@@ -53,6 +53,15 @@ Due to hardware and firmware limitations:
 
 ---
 
+## Documentation
+- [Installation Guide](docs/installation.md)
+- [Post‑Install Setup](docs/post-install.md)
+- [Troubleshooting](docs/troubleshooting.md)
+- [FAQ](docs/faq.md)
+- [Known Issues](docs/known-issues.md)
+
+---
+
 ## 📥 Repository Contents
 
 ### **1. Installation Guide**
