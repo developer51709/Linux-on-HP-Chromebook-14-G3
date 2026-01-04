@@ -27,3 +27,39 @@ What you can get:
 - Python, Node.js, Git, etc.
 
 - A “real Linux laptop” feel for coding and projects
+
+---
+
+## 2. Enable Developer Mode
+1. **Turn off** the Chromebook.
+
+2. Hold **Esc + Refresh**, then tap **Power**.
+
+3. At the recovery screen, press **Ctrl + D**.
+
+4. Press **Enter** to confirm.
+
+5. Wait for the device to wipe and reboot.
+
+From now on, at the white boot screen, press **Ctrl + D** to continue.
+
+---
+
+## 3. Connect to Wi‑Fi and open a VT2 shell
+1. Boot into ChromeOS (Developer Mode).
+
+2. Connect to Wi‑Fi.
+
+3. Press:
+
+```text
+Ctrl + Alt + F2
+```
+
+4. Log in as:
+
+```text
+chronos
+```
+
+No password is needed by default.
