@@ -183,4 +183,6 @@ If you have questions, suggestions, or improvements, feel free to open an issue 
 
 ---
 
-# Happy hacking on your HP Chromebook 14 G3!
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Platform: ARM](https://img.shields.io/badge/Platform-ARM-orange)
+![Status: Active](https://img.shields.io/badge/Status-Active-blue)
