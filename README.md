@@ -60,6 +60,7 @@ Due to hardware and firmware limitations:
 - [FAQ](docs/FAQ.md)
 - [Known Issues](docs/known-issues.md)
 - [Restore ChromeOS](docs/recovery-guide.md)
+- [Performance Tips](docs/performance-tips.md)
 
 ---
 
